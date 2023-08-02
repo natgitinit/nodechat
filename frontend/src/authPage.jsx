@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import axios from "axios"; 
 
 const AuthPage = (props) => {
