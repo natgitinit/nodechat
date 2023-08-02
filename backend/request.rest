@@ -6,9 +6,9 @@ Content-Type: application/json
 
 ###
 
-POST http://localhost:3001/signup
-Content-Type: application/json
+# POST http://localhost:3001/signup
+# Content-Type: application/json
 
-{
-    "username": "natasha", "secret": "pass1234", "email": "nat@gmail.com", "first_name": "Natasha", "last_name": "Engine"
-}
+# {
+#     "username": "natasha", "secret": "pass1234", "email": "nat@gmail.com", "first_name": "Natasha", "last_name": "Engine"
+# }
