@@ -1,0 +1,14 @@
+
+POST http://localhost:3001/authenticate
+Content-Type: application/json
+
+{ "username": "nat" }
+
+###
+
+POST http://localhost:3001/signup
+Content-Type: application/json
+
+{
+    "username": "natasha", "secret": "pass1234", "email": "nat@gmail.com", "first_name": "Natasha", "last_name": "Engine"
+}
